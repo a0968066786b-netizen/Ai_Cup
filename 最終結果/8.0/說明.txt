@@ -1,0 +1,6 @@
+分數得知，large模型 40 epoch為極限，
+因此參數恢復以下模式
+epoch 恢復到40
+lr0繼續維持0.005
+batch_size 維持8
+box='GIoU'->增加GIoU損失函數
