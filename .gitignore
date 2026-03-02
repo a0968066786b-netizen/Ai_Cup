@@ -1,3 +1,5 @@
+.vscode/
+最終結果/
 training_image.zip
 training_label.zip
 training_image/
@@ -5,5 +7,3 @@ training_label/
 aortic_value_colab.ymal
 testing_image.zip
 testing_image/
-.vscode/
-最終結果/
