@@ -1,3 +1,0 @@
-更換模型成'yolov8l.pt'
-降低batch_size為8
-lr0恢復為0.01的預設
